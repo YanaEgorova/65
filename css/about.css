@@ -1,0 +1,13 @@
+.about__wrapper {
+
+}
+.about {
+    padding: 3rem 0;
+}
+.about .text {
+    max-width: 70rem;
+    margin-bottom: 1rem;
+}
+@media screen and (min-width: 1024px)  {
+
+}

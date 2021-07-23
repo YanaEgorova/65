@@ -1,0 +1,22 @@
+.hero__wrapper {
+     background-image: url('../img/img1.jpeg');
+}
+
+.hero {
+    padding: 10rem 0 5rem;
+}
+.hero .title {
+    color: var(--first-brand-color);
+    background-color: var(--second-brand-color);
+    padding: 2rem;
+    display: inline-block;
+}
+@media screen and (min-width: 1024px)  {
+    .hero {
+         padding: 15rem 0;
+         text-align: right;
+    }
+    .hero .btn {
+        margin-right: 0;
+    }
+}
